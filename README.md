@@ -3,7 +3,7 @@
 A machine learning project that classifies product reviews into **Positive** or **Negative** sentiments using **TF‑IDF features**, **Logistic Regression**, and **SMOTE** for class balancing.  
 Includes a **Streamlit app** for interactive local deployment.
 
-
+Download the dataset from  https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ## ⚙️ Setup Instructions
 
@@ -31,4 +31,5 @@ Open the app in your browser (default: http://localhost:8501).
 Enter a product review in the text box.
 
 Click Predict to see whether the sentiment is Positive 😊 or Negative 😡.
+
 
